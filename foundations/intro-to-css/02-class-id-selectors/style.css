@@ -1,0 +1,17 @@
+.uneven-number {
+  background-color: #fd8282;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#second-number {
+  font-size: 36px;
+  color: #0161fb;
+}
+#third-number {
+  font-size: 24px;
+}
+
+#fourth-number {
+  background-color: #5dff83;
+  font-size: 24px;
+  font-weight: bold;
+}
